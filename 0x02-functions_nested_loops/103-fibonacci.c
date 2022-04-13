@@ -20,7 +20,7 @@ int main(void)
 		f1 = f2;
 		f2 = sum;
 	}
-	printf("%.of\n", tot);
+	printf("%.0f\n", tot);
 
 	return (0);
 }
